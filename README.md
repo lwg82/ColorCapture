@@ -1,0 +1,2 @@
+# ColorCapture
+RGB HSV double
